@@ -1,0 +1,45 @@
+/* Navbar Themes */
+.p-bar-red {
+  	background-color: red; 
+}
+.p-bar-grey {
+  	background-color: grey; 
+}
+.p-bar-green {
+  	background-color: green; 
+}
+.p-font-white {
+	color: white;
+	font-size: 14px;
+}
+.p-hover-red span a:hover {
+	color: red;
+	text-decoration: none;
+}
+.p-hover-blue span a:hover {
+	color: blue;
+	text-decoration: none;
+}
+.p-hover-green span a:hover {
+	color: green;
+	text-decoration: none;
+}
+.p-hover-red span a {
+	color: white;
+}
+.p-hover-blue span a {
+	color: white;
+}
+.p-hover-green span a {
+	color: white;
+}
+.p-nav-right span, .p-nav-left span {
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.p-nav-left {
+	float: left;
+}
+.p-nav-right {
+	float: right;
+}
