@@ -2,17 +2,19 @@
 Bootstrap - Minified - Customized - Simplified 
 
 
-THE BMCS 
+Particles-Starter-Theme
 
 Description: 
 
-A mobile-ready/energy booster pack built for transportation of a simple grid, simple buttons and simple standards. This package give you a boost in productivity and efficiency across all domains of building websites. Barebones with enough energy to get you started. 
+A Starter Theme for the Framework Particles. 
 
 
-Problem we solve:   
+Problems we solve:   
 
-When you search for a framework and begin working. To many options and to many problems get in your way before even starting. Well use this build pack and your options will be organized and simple. You are the driving force behind building great applications, so why should a framework bog you down. 
+We offer a new theme.css file that allows you to style your particles framework with speed. We also inculde a custom Particles.css file that allows you to create your own particle id components. With the power of these newly added theme styles, particles can become a featuring framework. 
 
-Start fresh, start simple and take it on with some energy! 
+This is a starter theme for people in need of a barebone, minified and new way of working. With particles you can begin to cut down time and energy by including different particles into your system. 
+
+
 
 
