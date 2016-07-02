@@ -14,7 +14,7 @@ We offer a new theme.css file that allows you to style your particles framework 
 
 This is a starter theme for people in need of a barebone, minified and new way of working. With particles you can begin to cut down time and energy by including different particles into your system. 
 
-##copyright: 
+##Copyright: 
 
 Commercial Use not allowed at this moment - until further notice and/or permission by Steven Anthony.   
 
