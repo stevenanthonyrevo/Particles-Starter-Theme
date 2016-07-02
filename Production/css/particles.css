@@ -1,0 +1,112 @@
+/*--------------------------------
+	Custom Full-Length Navbar 
+--------------------------------*/
+#particle-navbar {
+  width: 100%;
+  padding: 25px;
+  float: left;
+}
+#p-nav-bars {
+	display: none;
+	float: right;
+}
+#p-nav-mobile {
+	display: none;
+}
+#p-nav-left {
+	float: left;
+}
+#p-nav-right {
+	float: right;
+}
+#p-nav-right span, #p-nav-left span {
+	padding-right: 20px;
+	padding-left: 20px;
+}
+#p-menu-burger {
+	width: 27px;
+	height: 3px;
+	display: block;
+	margin-top: 3px;
+	margin-bottom: 3px
+}
+/*--------------------------------
+	Particles Theming Styles
+--------------------------------*/
+.p-bar-red {
+  	background-color: red; 
+}
+.p-bar-grey {
+  	background-color: grey; 
+}
+.p-bar-green {
+  	background-color: green; 
+}
+/*--------------------------------*/
+.p-font-white {
+	color: white;
+	font-size: 14px;
+}
+/*--------------------------------*/
+.p-hover-red span a:hover {
+	color: red;
+	text-decoration: none;
+}
+.p-hover-blue span a:hover {
+	color: blue;
+	text-decoration: none;
+}
+.p-hover-green span a:hover {
+	color: green;
+	text-decoration: none;
+}
+/*--------------------------------*/
+.p-hover-red span a {
+	color: white;
+}
+.p-hover-blue span a {
+	color: white;
+}
+.p-hover-green span a {
+	color: white;
+}
+/*--------------------------------*/
+.p-menu-burger-blue {
+	background-color: blue;
+}
+
+/*--------------------------------
+	Responsive Mobile  
+--------------------------------*/
+@media (max-width: 520px) {
+	/*--------------------------------
+	Custom Mobile Menu-drop down 
+	--------------------------------*/
+		#p-nav-left {
+			display: none;
+		}
+		#p-nav-right {
+			display: none;
+		}
+		#p-nav-bars {
+			display: block;
+		}
+		#p-nav-mobile {
+			text-align: center;
+		    width: 100%;
+		}
+		#p-nav-mobile span {
+			padding: 25px;
+		    display: inline-block;
+		    width: 100%;
+		}
+		#p-nav-mobile span:hover {
+			background-color: green;
+		}
+}
+
+
+
+
+
+

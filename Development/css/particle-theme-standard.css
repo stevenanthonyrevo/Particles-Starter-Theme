@@ -1,4 +1,4 @@
-/* Navbar Standard Theme Options */
+/*----- Navbar Standard Theme Options -----*/
 .p-bar-red {
   	background-color: red; 
 }
@@ -8,10 +8,14 @@
 .p-bar-green {
   	background-color: green; 
 }
+
+
 .p-font-white {
 	color: white;
 	font-size: 14px;
 }
+
+
 .p-hover-red span a:hover {
 	color: red;
 	text-decoration: none;
@@ -24,6 +28,8 @@
 	color: green;
 	text-decoration: none;
 }
+
+
 .p-hover-red span a {
 	color: white;
 }
@@ -33,6 +39,8 @@
 .p-hover-green span a {
 	color: white;
 }
+
+
 .p-menu-burger-blue {
 	background-color: blue;
 }
